@@ -9,7 +9,7 @@
 #include "builtins/Filters.h"
 #include "builtins/filters/SVF.h"
 #include "builtins/filters/SVFShelf.h"
-#include "builtins/Math.h"
+#include "builtins/ElemMath.h"
 #include "builtins/Noise.h"
 #include "builtins/Sample.h"
 #include "builtins/Seq2.h"
